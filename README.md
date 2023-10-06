@@ -1,4 +1,4 @@
-## Efficient Net B2 pretrained vs Vision Transformer Base pretrained
+## Efficient Net B2 pretrained vs Vision Transformer Base pretrained on Food101 dataset
 
 
 Spoiler 😝
